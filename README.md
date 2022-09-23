@@ -19,6 +19,8 @@ Master Typescript by learning popular design patterns and building complex proje
 <details>
   <summary>Getting Started with Typescript</summary>
 
+1. [How to Get Help](content/1_How-to-Get-Help.md)
+1. []()
 </details>
 
 ##  Requirements
